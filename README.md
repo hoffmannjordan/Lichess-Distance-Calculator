@@ -10,4 +10,5 @@ That is:
 Right now, I only use all the games from October-- sorry!
 In the coming weeks, I'll try to get a solution with all games. However, if you played in October you can pretty easily calculate an upper bound on your win distance.
 # To run the code
-Unzip the `2018-10-ALL.pkl.zip` file. Then, using python3 open the `Lichess_Distance.ipynb` file. You will need to install `networkx`. 
+Download this file: https://www.dropbox.com/s/qht5r40z9msz5ed/2018-10-ALL.pkl.zip?dl=0
+Unzip the `2018-10-ALL.pkl.zip` file to th directory with the code. Then, using python3 open the `Lichess_Distance.ipynb` file. You will need to install `networkx`. 
