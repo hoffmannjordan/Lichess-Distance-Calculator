@@ -1,4 +1,4 @@
-# Lichess-Distance-Calculator
+# Lichess Distance Calculator
 Calculate your win separation from the World Champion (and others) on Lichess. That is, you can find out who you beat, that beat someone, that beat someone, that beat Magnus in the October Titled Arena.
 That is: 
 ```
