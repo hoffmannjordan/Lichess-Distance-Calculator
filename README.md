@@ -5,7 +5,7 @@ That is:
 1: You beat them
 2: You beat someone who beat them
 3: You beat someone who beat someone who beat them
-4: You beat the drift
+4: You get the drift
 ```
 Right now, I only use all the games from October-- sorry!
 In the coming weeks, I'll try to get a solution with all games. However, if you played in October you can pretty easily calculate an upper bound on your win distance.
